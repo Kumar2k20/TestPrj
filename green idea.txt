@@ -1,0 +1,28 @@
+Calculate the average CPU usage for each employee for 3 months using ML and allocate the virtual remote machine with the required CPUs through virtualization. It will reduce the no. of idle CPU. It will save cost and energy.
+
+1)	If the keyboard, mouse, mic and audio signals are idle for 15 mins, system should be gone to sleep mode. 
+2)	If an application is not accessed for 2 hours it should be closed by monitor application.
+3)	While logging off the system, screens must be switched off immediately through log off event.(During the lunch hours most of the logged off screens are in “ON” status.)
+ These will save CPU usage and reduce carbon emission.
+
+In OPEX, we need to calculate both reduction of man power as well as carbon emission. Then only we can focus on carbon emission reduction.
+
+Data deduplication: Same file / data should not be saved in multiple machines. We can save the common files/tutorials/documents in a common shared drive. If the document is available in confluence / sharepoint we should not keep the copy in local machine. If we want to download any document from confluence / sharepoint, we can only save it in common shared drive (no access for making new folders). System should not allow us to download it to any other place. If some one is downloading it from confluence / sharepoint, older version will be overwritten by the newer version.
+
+WE can grow the indoor plant that can reduce more CO2. Snake plant, Aloe Vera, Spathiphyllum, Spider plant, Rebber plant, Dracaena, Pothos, etc., The complete list of plants are available in https://ntrs.nasa.gov/api/citations/19930073077/downloads/19930073077.pdf
+
+Paperless operation: we can run our operations with only soft copy of the documents. Most of the admin works, still hard copy of the documents (such as driving licence, RC, etc.,) are collected. We can better use soft copies. When it is really required can take the printouts from the soft copy. It will reduce the carbon emission, physical space for storage, maintenance for file keeping, etc.,
+
+Car Pooling: we can encourage car-pooling among employees. 
+Model: if there are 4 employees willing to pool a car, two must have car and ready to pool and rotate the responsibility of driving / brining the car. So if he/she is not coming on a particular day, other can bring the car. If both are not coming and informed 24 hours in advance, others can roster through office cab. 
+Benefits: Lower Carbon emissions, reduce traffic congestion, employee community bonding,  energy conservation, less office parking allocation, lead to better rad infrastructure.
+How to motivate: 
+1)	Car park priority to car-pooling employee (1 slot for 2 to 4 cars)
+2)	Company can offer petrol allowance / some incentive (for example: 10 or 20 percent amount of office cab expenses / employee self-computation allowance. Company can analyse the feasibility)
+3)	Company must propose the safety and etiquette that must be agreed by the employees.
+This can be applied for bike pooling as well.
+
+
+
+
+
