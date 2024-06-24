@@ -1,0 +1,13 @@
+D:\jdk-21\bin\java.exe "-javaagent:D:\JetBrains\IntelliJ IDEA 2024.1.4\lib\idea_rt.jar=50315:D:\JetBrains\IntelliJ IDEA 2024.1.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\projects\AdvancedJava\target\classes;C:\Users\SENTHIL\.m2\repository\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar;C:\Users\SENTHIL\.m2\repository\org\ow2\asm\asm\7.3.1\asm-7.3.1.jar;C:\Users\SENTHIL\.m2\repository\org\ow2\asm\asm-commons\7.3.1\asm-commons-7.3.1.jar;C:\Users\SENTHIL\.m2\repository\org\ow2\asm\asm-analysis\7.3.1\asm-analysis-7.3.1.jar;C:\Users\SENTHIL\.m2\repository\org\ow2\asm\asm-tree\7.3.1\asm-tree-7.3.1.jar;C:\Users\SENTHIL\.m2\repository\org\ow2\asm\asm-util\7.3.1\asm-util-7.3.1.jar;C:\Users\SENTHIL\.m2\repository\org\python\jython\2.7.3\jython-2.7.3.jar com.boa.demo.concurent.VirtualThread
+1 is completed
+2 is completed
+3 is completed
+4 is completed
+5 is completed
+6 is completed
+7 is completed
+8 is completed
+Done
+is Teminated :true
+
+Process finished with exit code 0
